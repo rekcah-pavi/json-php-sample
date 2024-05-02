@@ -1,0 +1,37 @@
+[
+    {
+      "sid": "n1",
+      "name": "Maximus",
+      "age": 35,
+      "address": "123 Main St, Springfield",
+      "cgpa": 3.8
+    },
+    {
+      "sid": "n2",
+      "name": "Aria",
+      "age": 25,
+      "address": "456 Elm St, Rivertown",
+      "cgpa": 3.9
+    },
+    {
+      "sid": "n3",
+      "name": "Phoenix",
+      "age": 19,
+      "address": "789 Oak St, Lakeside",
+      "cgpa": 3.5
+    },
+    {
+      "sid": "n4",
+      "name": "Luna",
+      "age": 27,
+      "address": "321 Pine St, Mountainview",
+      "cgpa": 3.7
+    },
+    {
+      "sid": "n5",
+      "name": "Atlas",
+      "age": 26,
+      "address": "654 Maple St, Sunnyside",
+      "cgpa": 3.6
+    }
+]
